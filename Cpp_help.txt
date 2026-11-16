@@ -58,3 +58,4 @@ Options starting with -g, -f, -m, -O, -W, or --param are automatically   <<<<<<<
 
 For bug reporting instructions, please see:
 <http://tdm-gcc.tdragon.net/bugs>.
+
