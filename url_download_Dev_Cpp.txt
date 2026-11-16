@@ -1,0 +1,11 @@
+tady jeste davam odkaz na stazeni Dev C++
+https://sourceforge.net/projects/orwelldevcpp/
+
+a tady jeste z taky pro jistotu z alternativniho odkazu,
+kdyzby to nahodou treba nejak casem zmizelo z vebu apod.
+https://sdilej.cz/32487514/dev-cpp-5.11-tdm-gcc-4.9.2-setup.rar
+
+
+tento odkaz by mel byt ted aktualni
+https://sdilej.cz/35469042/dev-cpp-5.11-tdm-gcc-4.9.2-setup.exe
+ 
